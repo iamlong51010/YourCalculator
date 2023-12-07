@@ -1,0 +1,1158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "10C2893F-BCB4-4DC6-9BD3-F92BEF4BD9AD"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D23C316F-5411-4565-AD0D-06B97602A6DD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YourCalculator/Controller/CalculatorViewCtrl.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "259"
+            endingLineNumber = "259"
+            landmarkName = "numberAction(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D23C316F-5411-4565-AD0D-06B97602A6DD - da6de7a13dbc9e58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.CalculatorViewCtrl.numberAction(__C.UIButton) -&gt; ()"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/Controller/CalculatorViewCtrl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "259"
+                  endingLineNumber = "259"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "D23C316F-5411-4565-AD0D-06B97602A6DD - da6de7a13dbc9e58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.CalculatorViewCtrl.numberAction(__C.UIButton) -&gt; ()"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/Controller/CalculatorViewCtrl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "259"
+                  endingLineNumber = "259"
+                  offsetFromSymbolStart = "135">
+               </Location>
+               <Location
+                  uuid = "D23C316F-5411-4565-AD0D-06B97602A6DD - da6de7a13dbca0e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.CalculatorViewCtrl.numberAction(__C.UIButton) -&gt; ()"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/Controller/CalculatorViewCtrl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "271"
+                  endingLineNumber = "271"
+                  offsetFromSymbolStart = "135">
+               </Location>
+               <Location
+                  uuid = "D23C316F-5411-4565-AD0D-06B97602A6DD - da6de7a13dbca026"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.CalculatorViewCtrl.numberAction(__C.UIButton) -&gt; ()"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/Controller/CalculatorViewCtrl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "273"
+                  endingLineNumber = "273"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "D23C316F-5411-4565-AD0D-06B97602A6DD - da6de7a13dbca026"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.CalculatorViewCtrl.numberAction(__C.UIButton) -&gt; ()"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/Controller/CalculatorViewCtrl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "273"
+                  endingLineNumber = "273"
+                  offsetFromSymbolStart = "135">
+               </Location>
+               <Location
+                  uuid = "D23C316F-5411-4565-AD0D-06B97602A6DD - da6de7a13dbc9e58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.CalculatorViewCtrl.numberAction(__C.UIButton) -&gt; ()"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/Controller/CalculatorViewCtrl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "259"
+                  endingLineNumber = "259"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C724457A-060A-4B48-88D5-E5B3C216CCED"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YourCalculator/Controller/CalculatorViewCtrl.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "operatorACAction(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C724457A-060A-4B48-88D5-E5B3C216CCED - affc23fc41e7c1cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.CalculatorViewCtrl.operatorACAction(__C.UIButton) -&gt; ()"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/Controller/CalculatorViewCtrl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "38">
+               </Location>
+               <Location
+                  uuid = "C724457A-060A-4B48-88D5-E5B3C216CCED - affc23fc41e7c341"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.CalculatorViewCtrl.operatorACAction(__C.UIButton) -&gt; ()"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/Controller/CalculatorViewCtrl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "169"
+                  endingLineNumber = "169"
+                  offsetFromSymbolStart = "38">
+               </Location>
+               <Location
+                  uuid = "C724457A-060A-4B48-88D5-E5B3C216CCED - affc23fc41e7c3ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.CalculatorViewCtrl.operatorACAction(__C.UIButton) -&gt; ()"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/Controller/CalculatorViewCtrl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "171"
+                  endingLineNumber = "171"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "C724457A-060A-4B48-88D5-E5B3C216CCED - affc23fc41e7c3ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.CalculatorViewCtrl.operatorACAction(__C.UIButton) -&gt; ()"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/Controller/CalculatorViewCtrl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "171"
+                  endingLineNumber = "171"
+                  offsetFromSymbolStart = "38">
+               </Location>
+               <Location
+                  uuid = "C724457A-060A-4B48-88D5-E5B3C216CCED - affc23fc41e7c1cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.CalculatorViewCtrl.operatorACAction(__C.UIButton) -&gt; ()"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/Controller/CalculatorViewCtrl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "140A8F88-EEAE-493B-9A24-01BA4B2DC4F4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YourCalculator/Controller/HomeViewCtrl.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "190"
+            endingLineNumber = "190"
+            landmarkName = "showLandScape()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "140A8F88-EEAE-493B-9A24-01BA4B2DC4F4 - 581341e350b51260"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.HomeViewCtrl.showLandScape() -&gt; ()"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/Controller/HomeViewCtrl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  uuid = "140A8F88-EEAE-493B-9A24-01BA4B2DC4F4 - 581341e350b51201"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.HomeViewCtrl.showLandScape() -&gt; ()"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/Controller/HomeViewCtrl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "140A8F88-EEAE-493B-9A24-01BA4B2DC4F4 - 581341e350b512e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.HomeViewCtrl.showLandScape() -&gt; ()"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/Controller/HomeViewCtrl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "140A8F88-EEAE-493B-9A24-01BA4B2DC4F4 - 581341e350b50b1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.HomeViewCtrl.showLandScape() -&gt; ()"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/Controller/HomeViewCtrl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "140A8F88-EEAE-493B-9A24-01BA4B2DC4F4 - 581341e350b50b1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.HomeViewCtrl.showLandScape() -&gt; ()"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/Controller/HomeViewCtrl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "118">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A1E471B-53BB-4F8B-9907-427FB25D2EBD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YourCalculator/Controller/HomeViewCtrl.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "201"
+            endingLineNumber = "201"
+            landmarkName = "showPortrait()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CB8811D2-BC94-4B9E-8BB0-06873629E145"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YourCalculator/Controller/HomeViewCtrl.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "initUI()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CB8811D2-BC94-4B9E-8BB0-06873629E145 - 5023dc8d6f1e0e6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.HomeViewCtrl.initUI() -&gt; ()"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/Controller/HomeViewCtrl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "CB8811D2-BC94-4B9E-8BB0-06873629E145 - 5023dc8d6f1e0e6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.HomeViewCtrl.initUI() -&gt; ()"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/Controller/HomeViewCtrl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "CB8811D2-BC94-4B9E-8BB0-06873629E145 - 5023dc8d6f1e0988"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.HomeViewCtrl.initUI() -&gt; ()"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/Controller/HomeViewCtrl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "CB8811D2-BC94-4B9E-8BB0-06873629E145 - 5023dc8d6f1e0eef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.HomeViewCtrl.initUI() -&gt; ()"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/Controller/HomeViewCtrl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "CB8811D2-BC94-4B9E-8BB0-06873629E145 - 5023dc8d6f1e0eef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.HomeViewCtrl.initUI() -&gt; ()"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/Controller/HomeViewCtrl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "263">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E54D5260-717C-4D1F-B6ED-A01D1985940B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YourCalculator/View/CalculatorView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "210"
+            endingLineNumber = "210"
+            landmarkName = "layoutSubviews()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E54D5260-717C-4D1F-B6ED-A01D1985940B - d60b85ae3fa0c57f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.CalculatorView.layoutSubviews() -&gt; ()"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/View/CalculatorView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "168"
+                  endingLineNumber = "168"
+                  offsetFromSymbolStart = "716">
+               </Location>
+               <Location
+                  uuid = "E54D5260-717C-4D1F-B6ED-A01D1985940B - d60b85ae3fa0c57f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.CalculatorView.layoutSubviews() -&gt; ()"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/View/CalculatorView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "168"
+                  endingLineNumber = "168"
+                  offsetFromSymbolStart = "1176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF119835-4EE4-4862-8212-B7718376A4AE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YourCalculator/View/CalculatorView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "257"
+            endingLineNumber = "257"
+            landmarkName = "layoutSubviews()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EF119835-4EE4-4862-8212-B7718376A4AE - d60b85ae3fa0c047"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.CalculatorView.layoutSubviews() -&gt; ()"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/View/CalculatorView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "208"
+                  endingLineNumber = "208"
+                  offsetFromSymbolStart = "10600">
+               </Location>
+               <Location
+                  uuid = "EF119835-4EE4-4862-8212-B7718376A4AE - d60b85ae3fa0c047"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.CalculatorView.layoutSubviews() -&gt; ()"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/View/CalculatorView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "208"
+                  endingLineNumber = "208"
+                  offsetFromSymbolStart = "13959">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A75AE24-0C71-4C82-BABA-AF79B10FE008"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YourCalculator/View/CalculatorView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "161"
+            endingLineNumber = "161"
+            landmarkName = "GetXInterFromFrameHeight(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9A75AE24-0C71-4C82-BABA-AF79B10FE008 - f0bd332020430977"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static YourCalculator.CalculatorView.GetXInterFromFrameWidth(width: CoreGraphics.CGFloat) -&gt; CoreGraphics.CGFloat"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/View/CalculatorView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "9A75AE24-0C71-4C82-BABA-AF79B10FE008 - f0bd332020430977"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static YourCalculator.CalculatorView.GetXInterFromFrameWidth(width: CoreGraphics.CGFloat) -&gt; CoreGraphics.CGFloat"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/View/CalculatorView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "9A75AE24-0C71-4C82-BABA-AF79B10FE008 - 9a64542a649b9160"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static YourCalculator.CalculatorView.GetXInterFromFrameHeight(CoreGraphics.CGFloat) -&gt; CoreGraphics.CGFloat"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/View/CalculatorView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5EBCA59D-8B76-4C78-BEFD-CD2726B6E7AF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YourCalculator/View/CalculatorView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "797"
+            endingLineNumber = "797"
+            landmarkName = "result()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "89CCC50E-A483-43C7-8830-397DD3E7C808"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YourCalculator/View/CalculatorView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "736"
+            endingLineNumber = "736"
+            landmarkName = "numberAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F5DE094-8F4E-42F3-9098-76A2C79850CA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YourCalculator/View/CalculatorView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "553"
+            endingLineNumber = "553"
+            landmarkName = "refreshProcessFromCurStr(_:isResult:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB89E0B1-7954-4DD5-8BFC-FC946DE01E5E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YourCalculator/Util/String+Extension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "operatorLeftStr"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "75294077-EAF6-4096-BF67-EC7A33D356B0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YourCalculator/Util/String+Extension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "operatorStrPos"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "75294077-EAF6-4096-BF67-EC7A33D356B0 - bf139f69a81455fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift.String.operatorStrPos.getter : Swift.Optional&lt;Swift.String.Index&gt;"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/Util/String+Extension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "75294077-EAF6-4096-BF67-EC7A33D356B0 - bf139f69a81455fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift.String.operatorStrPos.getter : Swift.Optional&lt;Swift.String.Index&gt;"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/Util/String+Extension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "135">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A7523CD-33F5-4628-8D15-5259BA5052BA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YourCalculator/Util/String+Extension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "operatorLeftStr"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "50D51CF2-8F52-4ECC-BC8F-E38E0A33EBBA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YourCalculator/Util/String+Extension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "operatorLeftStr"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "723E90B9-DBBA-4229-BF1E-F3F4648933AB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YourCalculator/View/CalculatorView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "559"
+            endingLineNumber = "559"
+            landmarkName = "refreshProcessFromCurStr(_:isResult:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4E8685F9-C51D-446A-8130-4336C3D9A374"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YourCalculator/View/CalculatorView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "604"
+            endingLineNumber = "604"
+            landmarkName = "operatorPlusMinusAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "334AD995-3FD6-42D9-A2E7-46D2EC655D08"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YourCalculator/View/CalculatorView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "517"
+            endingLineNumber = "517"
+            landmarkName = "refreshProcessWithPlusMinusActFromCurStr(_:isResult:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ECAB989E-A534-4A5E-9E6E-D7A81FAC2379"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YourCalculator/View/CalculatorView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "326"
+            endingLineNumber = "326"
+            landmarkName = "onDelOneChar()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ECAB989E-A534-4A5E-9E6E-D7A81FAC2379 - fbaa772f28c48660"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.CalculatorView.onDelOneChar() -&gt; ()"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/View/CalculatorView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "299"
+                  endingLineNumber = "299"
+                  offsetFromSymbolStart = "253">
+               </Location>
+               <Location
+                  uuid = "ECAB989E-A534-4A5E-9E6E-D7A81FAC2379 - fbaa772f28c48660"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.CalculatorView.onDelOneChar() -&gt; ()"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/View/CalculatorView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "299"
+                  endingLineNumber = "299"
+                  offsetFromSymbolStart = "375">
+               </Location>
+               <Location
+                  uuid = "ECAB989E-A534-4A5E-9E6E-D7A81FAC2379 - fbaa772f28c48660"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.CalculatorView.onDelOneChar() -&gt; ()"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/View/CalculatorView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "299"
+                  endingLineNumber = "299"
+                  offsetFromSymbolStart = "237">
+               </Location>
+               <Location
+                  uuid = "ECAB989E-A534-4A5E-9E6E-D7A81FAC2379 - fbaa772f28c48660"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.CalculatorView.onDelOneChar() -&gt; ()"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/View/CalculatorView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "299"
+                  endingLineNumber = "299"
+                  offsetFromSymbolStart = "359">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3693182F-B9E0-45A4-B5CD-9C9875C57B0F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YourCalculator/View/CalculatorView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "374"
+            endingLineNumber = "374"
+            landmarkName = "onDelOneChar()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C4033D70-05AB-44E2-BAE3-0E0E0304F86E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YourCalculator/View/CalculatorView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "373"
+            endingLineNumber = "373"
+            landmarkName = "onDelOneChar()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B13AA459-A6C8-471B-AC11-C6C98B126D93"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YourCalculator/View/CalculatorView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "333"
+            endingLineNumber = "333"
+            landmarkName = "onDelOneChar()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B13AA459-A6C8-471B-AC11-C6C98B126D93 - fbaa772f28c48388"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.CalculatorView.onDelOneChar() -&gt; ()"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/View/CalculatorView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "323"
+                  endingLineNumber = "323"
+                  offsetFromSymbolStart = "1088">
+               </Location>
+               <Location
+                  uuid = "B13AA459-A6C8-471B-AC11-C6C98B126D93 - fbaa772f28c48388"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.CalculatorView.onDelOneChar() -&gt; ()"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/View/CalculatorView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "323"
+                  endingLineNumber = "323"
+                  offsetFromSymbolStart = "1271">
+               </Location>
+               <Location
+                  uuid = "B13AA459-A6C8-471B-AC11-C6C98B126D93 - e51945f0e4fa2bcc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.CalculatorView.onDelOneChar() -&gt; ()"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/MyGithubProj/OfficialProj/IOSProj/YourCalculator/YourCalculator/View/CalculatorView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "333"
+                  endingLineNumber = "333"
+                  offsetFromSymbolStart = "1271">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "74FB5D4D-1CA0-4CFD-BFE1-DEF69BE37E6C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YourCalculator/Util/String+Extension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "135"
+            endingLineNumber = "135"
+            landmarkName = "getDelOneCharStrIfItIsNum()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B4E064CD-C461-4579-AA13-DA575B4190D8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YourCalculator/View/CalculatorView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "769"
+            endingLineNumber = "769"
+            landmarkName = "numberAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1EAE095F-30FB-4CE2-8996-BA1937346D5E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YourCalculator/View/CalculatorView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "635"
+            endingLineNumber = "635"
+            landmarkName = "operatorResultAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE0D15CF-0E54-442A-B65A-5556649434FA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YourCalculator/View/CalculatorView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "638"
+            endingLineNumber = "638"
+            landmarkName = "operatorResultAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2ED774F-2C64-4053-BC48-A467340E0133"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YourCalculator/View/CalculatorView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "340"
+            endingLineNumber = "340"
+            landmarkName = "onDelOneChar()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C2ED774F-2C64-4053-BC48-A467340E0133 - fbaa772f28c48267"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.CalculatorView.onDelOneChar() -&gt; ()"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/View/CalculatorView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "330"
+                  endingLineNumber = "330"
+                  offsetFromSymbolStart = "1242">
+               </Location>
+               <Location
+                  uuid = "C2ED774F-2C64-4053-BC48-A467340E0133 - fbaa772f28c48267"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.CalculatorView.onDelOneChar() -&gt; ()"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/Study/IOS/Swift_study/YourCalculator/YourCalculator/View/CalculatorView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "330"
+                  endingLineNumber = "330"
+                  offsetFromSymbolStart = "1396">
+               </Location>
+               <Location
+                  uuid = "C2ED774F-2C64-4053-BC48-A467340E0133 - e51945f0e4fa2aab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.CalculatorView.onDelOneChar() -&gt; ()"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/MyGithubProj/OfficialProj/IOSProj/YourCalculator/YourCalculator/View/CalculatorView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "340"
+                  endingLineNumber = "340"
+                  offsetFromSymbolStart = "1396">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4CFA0837-AFD3-4F74-9F39-05A45CC98691"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YourCalculator/View/CalculatorView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "679"
+            endingLineNumber = "679"
+            landmarkName = "operatorMultiplicationAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "824FA79E-12D0-4342-AC11-EEB0B891A526"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YourCalculator/View/CalculatorView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "688"
+            endingLineNumber = "688"
+            landmarkName = "operatorMultiplicationAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "02CD10F3-B0D3-4D3B-802F-DB205750EFC0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YourCalculator/View/CalculatorView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "287"
+            endingLineNumber = "287"
+            landmarkName = "curShowResult"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "02CD10F3-B0D3-4D3B-802F-DB205750EFC0 - 830499cb9cbcdcb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.CalculatorView.curShowResult.getter : Swift.String"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/MyGithubProj/OfficialProj/IOSProj/YourCalculator/YourCalculator/View/CalculatorView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "287"
+                  endingLineNumber = "287"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "02CD10F3-B0D3-4D3B-802F-DB205750EFC0 - 830499cb9cbcdcb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YourCalculator.CalculatorView.curShowResult.getter : Swift.String"
+                  moduleName = "YourCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/xiaolong/projects/MyGithubProj/OfficialProj/IOSProj/YourCalculator/YourCalculator/View/CalculatorView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "287"
+                  endingLineNumber = "287"
+                  offsetFromSymbolStart = "194">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "02489165-1456-4BCF-885D-11DD28AC485F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YourCalculator/View/CalculatorView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "301"
+            endingLineNumber = "301"
+            landmarkName = "transferShowResult(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
